@@ -1,0 +1,26 @@
+---
+name: Práctica Recursividad
+locale: es
+type: practice
+beta: false
+language: haskell
+id_format: "%05d"
+order:
+- 101
+- 102
+- 103
+- 104
+- 105
+- 106
+- 107
+- 109
+- 110
+- 1081
+- 1082
+- 1111
+- 1184
+- 1183
+- 1185
+- 1186
+- 1188
+private: false
